@@ -1,4 +1,4 @@
-#### This programming assignment has three parts.
+# This programming assignment has three parts.
 
 Work on this dataset Download this dataset. The dataset contains 1000 baskets, each with 3 to 10 items. There are 20 different items in the dataset. 
 
@@ -28,7 +28,7 @@ Follow this pseudocode:
 
 Input parameter: (s, b).    s - support; b - number of bucket.
 
-#### items have integer IDs
+# items have integer IDs
 
 1st Pass:
 ```code
@@ -51,7 +51,7 @@ Output: number of frequent pairs, a list of the frequent pairs sorted in increas
 
  
 
-#### Run your program on 
+# Run your program on 
 
 Run your program with the following parameters:
 
